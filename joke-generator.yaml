@@ -1,0 +1,15 @@
+prompt: tell me a really funny joke
+schema_object:
+    type: object
+    properties:
+        setup:
+            description: the setup of the joke
+            type: string
+        punchline:
+            description: the punchline of the joke
+            type: string
+    required:
+    - setup
+    - punchline
+options:
+    temperature: 1.0
