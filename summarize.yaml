@@ -1,0 +1,3 @@
+prompt: $input - summarize this
+options:
+    temperature: 0.5
