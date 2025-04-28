@@ -1,0 +1,4 @@
+prompt: Please write a poem about financial accounting.
+system: You are a helpful assistant.
+options:
+    temperature: 1.0
